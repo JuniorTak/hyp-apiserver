@@ -1,0 +1,16 @@
+{
+  "name": "hyp-apiserver",
+  "version": "1.0.0",
+  "description": "Rest API server using express framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyppolite T.",
+  "license": "GPLv3",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nedb": "^1.8.0"
+  }
+}
